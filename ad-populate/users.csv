@@ -1,0 +1,3 @@
+Name;GivenName;Surname;DisplayName;SamAccountName;Company;Title;Country;State;City;Department;Description;email;password
+David Chew;David;Chew;David Chew (Test);user018;MyCorp;CEO;fr;Sarthe;Le Mans;Engineering;P'ti chef;david.chew@mycorp.loc;Azerty1234$
+John Doe;John;Doe;John Doe (Admin);user015;MyCorp;Hacker;fr;Sarthe;Le Mans;Engineering;security   ;john.doe@mycorp.loc;Hacker1234*

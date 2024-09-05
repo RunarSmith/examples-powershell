@@ -1,0 +1,7 @@
+{
+	"countries":[
+		{"Name":"Norway", "Capital":"Oslo"},
+		{"name":"Serbia", "Capital":"Belgrade"},
+		{"name":"Croatia", "Capital":"Zagreb"}
+	]
+}

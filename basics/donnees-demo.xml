@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geography> 
+	<country>
+		<name>Norway</name>
+		<capital>Oslo</capital>
+	</country>
+	<country>
+		<name>Serbia</name>
+		<capital>Belgrade</capital>
+	</country>
+	<country>
+		<name>Croatia</name>
+		<capital>Zagreb</capital>
+	</country>
+</geography>
